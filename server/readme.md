@@ -1,1 +1,1 @@
-Take times and gps locations from twilio and triangulates stuff
+Take times and gps locations from twilio and triangulate the location of the gun. Then send back the the location from twilio. 
