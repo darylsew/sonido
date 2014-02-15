@@ -1,0 +1,1 @@
+Record sound, find gunshout sound, take the time* of the gunshot sound, send it out by twilio to the server
