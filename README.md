@@ -1,4 +1,4 @@
-sonido
+Sonido
 ======
-LET IT GO LET IT GO 
-pennaps sp2014 proj
+Sonido is an app that generates an intensity map of sound 
+using data from microphones for a given area.
